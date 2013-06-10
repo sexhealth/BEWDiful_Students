@@ -83,7 +83,7 @@ If you haven't done so already, please take some time now to get your machine se
 
 View the installation guide here:
 
-https://github.com/sansari/BEWDiful_Students/blob/master/install_instructions.md
+-	[tinyurl.com/bewd-install](http://tinyurl.com/bewd-install)
 
 
 ---
