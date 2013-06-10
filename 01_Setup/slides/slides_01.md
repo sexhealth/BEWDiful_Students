@@ -1,193 +1,216 @@
-<img id="icon" src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png ">
+![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-#BEWD - This Is A TEST 
+#BEWD - Working Like A Developer 
 
-###Instructor Name
+###Salman Ansari
 
-Instructors current role.
+Principal Software Engineer, Oracle
+
 
 ---
 
 
 ##Agenda
 
-*	Installation
 *	Intros
+*	Setup
 *	What is Web Development
-*	Bash Commands
-*	Using GitHub
+*	Command Line
+*	Git & GitHub
 
 ---
 
+##About Me
 
-##Installation
-###Terminal
-
-
-This class is using Ruby 2.0 and Rails 4. 
-
-We are still putting together instructions for both PCs and MACs. 
-
-For now please have students install using your preferred method.
+* I'm a founding engineer of Involver (now part of Oracle)
+* I'm a teacher
+* I'm a DJ
+* I'm a writer
 
 ---
 
+##I'm not related to Aziz Ansari.
 
-##Introductions
-Instructors choose your ice breaker
+
+![NotAzizAnsari](../../assets/misc/azizansari.jpg)
+
+### Sorry.
+
+---
+
+##About your TAs
+
+1. Brooks Swinnerton
+2. Brian Fountain
+
+---
+
+##Course Overview
+
+At a high level, we will focus on developing expertise with the following:
+* The command line (terminal)
+* Git and GitHub (source control)
+* Ruby (programming language)
+* Rails (web application frameework)
+* Developer tools & resources
+
 
 ---
 
 ##Course Administration
-###Lets Get This Out Of The Way
 
-To set us for a great class we are going to learn command line and git this class. Then Ruby then Rails. 
+*	What you will get from us:
+	* 	In-class labs
+	* 	Homework
+	* 	Class slides (viewable in GitHub)
+	* 	Instructor & TAs!
 
-*	To pass the course: 
-	*	Complete 80% of all assigned homework
-	*	Complete final project
+*	What you need to submit to us:	
+	*	At least 80% of all assigned homework
+	*	A completed final project
+
+
 ---
 
-##Course Administration
-###What You Will Get From Us
+##Setup
+###Getting Your Development Environment Ready
 
-	* In Class Labs
-	* Homework
-	* Slides / resource markdown file to be viewed in GitHub
-	* Awesome instructor
+
+This class is using Ruby 2.0 (p195) and Rails 4.0 (RC1). 
+
+If you haven't done so already, please take some time now to get your machine set up. You can find the setup guide in the "install_instructions.md" file in the BEWDiful_Students GitHub repository, the under Lesson 01 folder.
+
+URL: https://github.com/sansari/BEWDiful_Students/tree/master/01_Setup/slides/install_instructions.md
+
 
 ---
 
 
 ##Web Development
-###What is Back-end Web Development?
+###What is Back-End Web Development?
+
+To understand that, we need to understand the client server model:
+
+![NotAzizAnsari](../../assets/misc/server-side.jpg)
+
+Now, we can define a few terms:
+
+* Web Development (development of apps designed for the web)
+* Front-End Development (developing for the client / browser)
+* Back-End Development (developing for the server)
+
+This course will heavily focus on technologies for backend development (Ruby, Rails, MySQL) and only briefly cover technologies needed for front-end development (HTML, CSS).
 
 ---
 
 
 
-##Command Line
-###Lets learn how to work like a programmer before we start to build web applications.
-![Workflow](../../assets/command_line/dev_workflow.png)
+##Work Like a Developer
+###Integrate into the developer community
+
+* Choose the right OS, editors, & tools for your projects.
+* Leverage the online community's vast libraries and documentation.
+* Spread the knowledge you gain, and give back to the community when you can.
+* Take pride & and joy in what you work on.
+* Be efficient:
+	* Use the keyboard as much as possible
+	* If you find yourself doing the same thing repeatedly, automate it
+
+---
+
+##Jump onto the Command Line
+###What is it?
+
+The command line is a terminal giving you direct access to your operating system. You can enter simple commands to perform a variety of functions.
+
+Many of the tasks we need to carry out (such as committing our code) are best performed in the command line.
+
+---
+
+##Jump onto the Command Line
+###How do I start?
+
+For Macs:
+
+* Open the "Terminal" app
+* For a better experience, download and install "iTerm 2", which is a replacement app that is slightly better.
+
+For Windows:
+
+* Open the "Command Prompt" application
+* For a better experience, try "Console" (http://sourceforge.net/projects/console/). NOTE: I have not personally used this.
 
 ---
 
 
-##Command Line
-###Why Work Like A Developer?
-
-* 	Its Fast!
-	*	Working with keyboard increases your speed. The mouse slows you down.
-	*	You are always typing when coding, staying in the environment is faster.
-
-* 	Its Cool!
-	*	Impress your friends as you navigate the computer using your keyboard.
----
-
-
-
-##Command Line
-###What And Where Is It?
-
-![Find The Terminal](../../assets/command_line/spotlight.png)
-
----
-
-
-##Command Line
-###How Do You Use It?
-
-*	Shell Commands.
-
----
-
-
-
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons/Exercise_icon_md.png">
+![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
 ## Command Line Basics Exercise
----
-
-
-##Terminal
-###Join The Developer Club
-
-*	You are now one of the cool kids. 
-	*	Keep practicing and see the GA cheat sheet for now you should know
-		*	cd, ls, rm, mkdir
 
 ---
 
 
-##GIT
-![Using Git](../../assets/GitHub/using_gitHub.png)
+##Work Like a Developer
+###Integrate into the developer community
+
+Congrats! You're on your way to becoming a developer. Keep it up.
+
+If you are still a bit lost, don't worry. Practice makes perfect. Take a look at the cheat sheet in the Resources slide at the end of the class for a list of common commands.
 
 ---
 
 
-##GIT
+##Git
 ###What Is GIT?
 
-![Using Git](../../assets/GitHub/git_general_diagram.png)
-
-
----
-
-
-##GIT
-###Why Use GIT?
-
-*	Confident Changes
-*	Checkpoints
-*	File recovery 
-
-![Why Use GIT](../../assets/GitHub/why_use_git.png)
+* GIT is a source control management tool.
+* GIT allows you to store and update your code in a structured way.
+* GIT includes history of changes you make, so you can create "checkpoints" and track your work better over time.
+* GIT allows multiple contributors to work on the same project, and has intelligence to resolve conflicts between changes committed by different people at different times.
+* GIT is smart, but can be tricky.
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
+
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git Basics
 
 ---
 
 
-##GITHUB
+##GitHub
 ###What is GitHub?
 
-*	Is Git The Same as GitHub?
+*	Git vs GitHub. What's the difference?
+*	<b>Git</b>: A tool used to manage <b>local</b> repositories
+*	<b>GitHub</b>: A cloud-based platform used to manage <b>remote</b> repositories
 
-![Developer Humor](../../assets/GitHub/octocat.png)
+![Using Git](../../assets/GitHub/git_general_diagram.png)
 
 ---
 
 
-##GITHUB
-###FORKS
+##GitHub Forks
+###Forks Explained
 ![ Git In Class Diagram](../../assets/GitHub/fork_Diagram.png)
 
 ---
 
 
-<img id="icon" src="../../assets/ICL_icons/Code_along_icon_md.png">
+
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git In Class
 
 ---
 
 
-##GITHUB
-###Using Git For Homework
-![ Git In Class Diagram](../../assets/GitHub/fork_diagram_ga.png)
-
----
-
-
-<img id="icon" src="../../assets/ICL_icons//Exercise_icon_md.png">
+![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
 ## Git It Together
 
 ---
@@ -195,15 +218,12 @@ To set us for a great class we are going to learn command line and git this clas
 
 ## Homework
 
+-	Create a blog to document your experience
 -	Write about your first BEWD class in your blog
 
 ---
 
-
-<div id="resources">
-## Resources: Command Line Basics & Git
-
-Class is Over, but here are some extra resources.
+##Additional Resources: Command Line Basics & Git
 
 ##Cheat Sheet
 
@@ -214,6 +234,9 @@ Remember when you see ```“$”``` or ```“C:\>”``` in these notes that is t
 
  		$  MAC
 		C:\>  WINDOWS
+		
+---
+
 ####Navigation
 
 
@@ -245,6 +268,7 @@ How do I create a new folder?
 		$mkdir folder_name
 		C:\> mkdir folder_name
 
+---
 
 ####Deleting - (Proceed With Caution)
 
@@ -269,14 +293,11 @@ You can rename a file the same way
 		$mv old_name new_name
 		C:\> move old_name new_names
 
+---
 
-##Tips Tricks & Motivation
+##Tips, Tricks & Motivation
 
-__How is my instructor moving so fast?__
-
-We hire wizards from Hogwarts to teach our courses. Just kidding they’re using shortcuts in the command line. 
-
-Here are some to help you keep up:
+Here are some keyboard shortcuts in the command line to help you keep up (note: not all command line apps support these):
 
 **Tab Completion**: Press Tab to complete folder and file names                                                       
 
@@ -298,22 +319,25 @@ Here are some to help you keep up:
 
 **Control + l**: Clear the screen        
  
-Read this article about how to assess engineers: https://medium.com/tech-talk/d5f8051afce2
+---
 
-
-##Git Pictures
-![Git Diagram](../../assets/GitHub/git_in_class_diagram.png)
+##Git Diagrams and Pictures
 
 Fork Button
 
 ![Fork Button](../../assets/GitHub/fork_button.png)
 
-![Pull Requestion](../../assets/GitHub/pull_request_button.png)
+Pull Request Buttons
 
+![Pull Request](../../assets/GitHub/pull_request_button.png)
 
+---
 
 ##Still Feel Lost? 
 ###Catch Up With These Resources
+
+
+-	[Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
 -	[GitHub Cheat Sheet](https://na1.salesforce.com/help/doc/en/salesforce_git_developer_cheatsheet.pdf)
 
