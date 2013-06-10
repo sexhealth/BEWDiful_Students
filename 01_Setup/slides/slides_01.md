@@ -38,7 +38,7 @@ Principal Software Engineer, Oracle
 
 ---
 
-##About your TAs
+##About your TA's
 
 1. Brooks Swinnerton
 2. Brian Fountain
@@ -48,6 +48,7 @@ Principal Software Engineer, Oracle
 ##Course Overview
 
 At a high level, we will focus on developing expertise with the following:
+
 * The command line (terminal)
 * Git and GitHub (source control)
 * Ruby (programming language)
@@ -73,14 +74,16 @@ At a high level, we will focus on developing expertise with the following:
 ---
 
 ##Setup
-###Getting Your Development Environment Ready
+###Getting Your Dev Environment Ready
 
 
 This class is using Ruby 2.0 (p195) and Rails 4.0 (RC1). 
 
-If you haven't done so already, please take some time now to get your machine set up. You can find the setup guide in the "install_instructions.md" file in the BEWDiful_Students GitHub repository, the under Lesson 01 folder.
+If you haven't done so already, please take some time now to get your machine set up. 
 
-URL: https://github.com/sansari/BEWDiful_Students/tree/master/01_Setup/slides/install_instructions.md
+View the installation guide here:
+
+https://github.com/sansari/BEWDiful_Students/blob/master/install_instructions.md
 
 
 ---
