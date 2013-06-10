@@ -339,6 +339,7 @@ Pull Request Buttons
 ##Still Feel Lost? 
 ###Catch Up With These Resources
 
+- 	[Terminal Commands](../resources/Terminal_Commands.docx)
 
 -	[Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 
