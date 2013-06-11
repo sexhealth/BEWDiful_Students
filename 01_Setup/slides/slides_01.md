@@ -52,7 +52,7 @@ At a high level, we will focus on developing expertise with the following:
 * The command line (terminal)
 * Git and GitHub (source control)
 * Ruby (programming language)
-* Rails (web application frameework)
+* Rails (web application framework)
 * Developer tools & resources
 
 
@@ -90,17 +90,20 @@ View the installation guide here:
 
 
 ##Web Development
-###What is Back-End Web Development?
-
-To understand that, we need to understand the client server model:
+###The Web Application Stack: Client/Server Model
 
 ![NotAzizAnsari](../../assets/misc/server-side.jpg)
 
-Now, we can define a few terms:
+---
 
-* Web Development (development of apps designed for the web)
-* Front-End Development (developing for the client / browser)
-* Back-End Development (developing for the server)
+##Web Development
+###Back-end vs Front-end Development
+
+Let's define a few terms:
+
+* Web Development is the development of apps designed for the web
+* Front-End Development is developing for the client / browser (HTML, CSS, JS)
+* Back-End Development is developing for server-side components (Ruby, C#.NET)
 
 This course will heavily focus on technologies for backend development (Ruby, Rails, MySQL) and only briefly cover technologies needed for front-end development (HTML, CSS).
 
@@ -121,7 +124,7 @@ This course will heavily focus on technologies for backend development (Ruby, Ra
 
 ---
 
-##Jump onto the Command Line
+##The Command Line
 ###What is it?
 
 The command line is a terminal giving you direct access to your operating system. You can enter simple commands to perform a variety of functions.
@@ -130,7 +133,7 @@ Many of the tasks we need to carry out (such as committing our code) are best pe
 
 ---
 
-##Jump onto the Command Line
+##The Command Line
 ###How do I start?
 
 For Macs:
@@ -138,10 +141,11 @@ For Macs:
 * Open the "Terminal" app
 * For a better experience, download and install "iTerm 2", which is a replacement app that is slightly better.
 
+
 For Windows:
 
 * Open the "Command Prompt" application
-* For a better experience, try "Console" (http://sourceforge.net/projects/console/). NOTE: I have not personally used this.
+* For a better experience, try "Console" (http://sourceforge.net/projects/console/)
 
 ---
 
@@ -149,11 +153,47 @@ For Windows:
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Command Line Basics
 
+###Time: 20 min
+
+| | |
+| ------------- |:-------------|
+| __Topics__ | bash commands, terminal| 
+| __Description__| Demonstrate how to navigate computer files and folders  using the terminal.|    
+
+####Task Instructions 
+1. Make a script in bash to create a directory named code. 
+2. Change into this folder
+3. Create a file, complete, with the contents “Completed the exercise”
+4. Change to your home directory
+5. Show the contents of the completed file to the terminal
+6. Make it executable
+7. BONUS: Modify the script in some way to accept arguments.
+
+
 ---
 
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
 ## Command Line Basics Exercise
+
+
+###Time: 20 min
+
+| | |
+| ------------- |:-------------|
+| __Topics__ | bash commands, terminal| 
+| __Description__| Practice navigating computer files and folders  using the terminal.|    
+| | |
+
+
+####Task Instructions 
+
+-	Pair program.
+-	Make a script in bash to create a directory named lists. 
+-	Change into this folder
+-	Create a file and use the first argument passed as the name.
+-	Insert the contents of the second argument into the file
+-	Show the contents of the completed file to the terminal
 
 ---
 
@@ -163,7 +203,9 @@ For Windows:
 
 Congrats! You're on your way to becoming a developer. Keep it up.
 
-If you are still a bit lost, don't worry. Practice makes perfect. Take a look at the cheat sheet in the Resources slide at the end of the class for a list of common commands.
+* If you are still a bit lost, don't worry. 
+* Practice makes perfect. 
+* Take a look at the cheat sheet in the Resources slide at the end of the class for a list of common commands.
 
 ---
 
@@ -184,13 +226,38 @@ If you are still a bit lost, don't worry. Practice makes perfect. Take a look at
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git Basics
 
+###Time: 30 min
+
+####Task Instructions
+
+**_Adding git to a folder_**
+
+-	Create a folder and change into it
+-	Create 3 files config, log, runner.rb
+-	Tell git to add this folder as a new repository
+-	Tell git to track the 3 files in the repo
+
+**_Commiting_**
+
+-	Open runner.rb in sublime text
+-	Type ‘print “Commited!”’
+-	Check the status of the file
+-	Look at the difference in the file
+-	Tell git it’s ok to commit this file
+-	Commit the file
+
+**_Pushing Changes To GitHub_**
+
+-	Log into Github
+-	Create a new repository without a readme named first\_push
+-	Go back to your folder and add the remote branch
+-	PUSH your code to GitHub
+
 ---
 
 
-##GitHub
-###What is GitHub?
+##Git vs GitHub
 
-*	Git vs GitHub. What's the difference?
 *	<b>Git</b>: A tool used to manage <b>local</b> repositories
 *	<b>GitHub</b>: A cloud-based platform used to manage <b>remote</b> repositories
 
@@ -209,6 +276,25 @@ If you are still a bit lost, don't worry. Practice makes perfect. Take a look at
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
 ##Git In Class
+
+
+###Time: 15 min
+
+| | |
+| ------------- |:-------------|
+| __Topics__ | bash commands, terminal, git, gitHub| 
+| __Description__| Setup repositories for in class labs and homework|    
+ 
+
+####Task Instructions
+
+-	Fork BEWDIful repository
+-	Clone your copy of the repository
+-	Set BEWDIful repository as a remote called instructor:
+	-	```git remote add instructor <YOUR GIT REPO URL>```
+-	Pull updates from BEWDiful instructor
+	-	```git fetch instructor``` then ```git merge instructor/master```
+	- 	or just ```git pull instructor master``` (auto-merges)
 
 ---
 
