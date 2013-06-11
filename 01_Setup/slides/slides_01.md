@@ -1,26 +1,25 @@
 ![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
 
-#BEWD - Working Like A Developer 
-
-###Salman Ansari
-
-Principal Software Engineer, Oracle
+#BEWD: Back-end Web Development
+## with Salman Ansari
 
 
 ---
 
+##Course Overview
 
-##Agenda
+At a high level, we will focus on developing expertise with the following:
 
-*	Intros
-*	Setup
-*	What is Web Development
-*	Command Line
-*	Git & GitHub
+* The command line (terminal)
+* Git and GitHub (source control)
+* Ruby (programming language)
+* Rails (web application framework)
+* Developer tools & resources
+
 
 ---
 
-##About Me
+##About Salman
 
 * I'm a founding engineer of Involver (now part of Oracle)
 * I'm a teacher
@@ -45,19 +44,6 @@ Principal Software Engineer, Oracle
 
 ---
 
-##Course Overview
-
-At a high level, we will focus on developing expertise with the following:
-
-* The command line (terminal)
-* Git and GitHub (source control)
-* Ruby (programming language)
-* Rails (web application framework)
-* Developer tools & resources
-
-
----
-
 ##Course Administration
 
 *	What you will get from us:
@@ -70,6 +56,16 @@ At a high level, we will focus on developing expertise with the following:
 	*	At least 80% of all assigned homework
 	*	A completed final project
 
+---
+
+![GeneralAssemb.ly](https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png "GeneralAssemb.ly")
+##Lesson 1: Working Like a Developer
+###Agenda
+
+*	Setup
+*	What is Web Development?
+*	Command Line
+*	Git & GitHub
 
 ---
 
