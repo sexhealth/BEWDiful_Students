@@ -258,7 +258,7 @@ Congrats! You just took your first steps to becoming a developer. Keep it up.
 -	Fork BEWDIful repository
 -	Clone your copy of the repository
 -	Set BEWDIful repository as a remote called instructor:
-	-	```git remote add instructor <YOUR GIT REPO URL>```
+	-	```git remote add instructor git@github.com:sansari/BEWDiful_Students.git```
 -	Pull updates from BEWDiful instructor
 	-	```git fetch instructor``` then ```git merge instructor/master```
 	- 	or just ```git pull instructor master``` (auto-merges)
