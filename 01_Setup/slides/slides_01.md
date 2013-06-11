@@ -101,6 +101,7 @@ At a high level, we will focus on developing expertise with the following:
 	* 	Class slides (viewable in GitHub)
 	* 	Instructor & TAs!
 
+
 *	What you need to submit to us:	
 	*	At least 80% of all assigned homework
 	*	A completed final project
