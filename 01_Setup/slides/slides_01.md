@@ -57,11 +57,15 @@ Most importantly, we will strive to teach you how to learn.
 ![DJ](https://dl.dropboxusercontent.com/u/51784/GA/01/dj.jpg)
 
 
+
+
 ###soundcloud.com/daretorant
 
----
+----
 ## I'm a writer (ranter)
 ![DareToRant](https://dl.dropboxusercontent.com/u/51784/GA/01/daretorant.png)
+
+
 
 
 ###daretorant.com
