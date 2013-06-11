@@ -16,7 +16,8 @@ At a high level, we will focus on developing expertise with the following:
 * Rails (web application framework)
 * Developer tools & resources
 
-Most importantly, we will strive to teach you how to learn.
+
+<b>Most importantly, we will strive to teach you how to learn.</b>
 
 ---
 
@@ -61,7 +62,7 @@ Most importantly, we will strive to teach you how to learn.
 
 ###soundcloud.com/daretorant
 
-----
+---
 ## I'm a writer (ranter)
 ![DareToRant](https://dl.dropboxusercontent.com/u/51784/GA/01/daretorant.png)
 
