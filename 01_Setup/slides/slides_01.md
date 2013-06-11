@@ -271,6 +271,10 @@ Congrats! You just took your first steps to becoming a developer. Keep it up.
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
 ## Git It Together
+-	Add a .txt file named blog and type your name and the URL to your blog
+-	Commit your changes
+-	Push them to your repository
+-	Submit a pull request for your instructor to access those changes
 
 ---
 
