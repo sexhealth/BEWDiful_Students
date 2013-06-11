@@ -32,7 +32,7 @@ BACK-END WEB DEVELOPMENT
 4.	__Make sure you have an apple ID__ (you should already have one). 
 
 5.	__Xcode installed?__
-	*	Go to step 4
+	*	Go to step 7
 
 6.	__Xcode not installed?__ 
 	*	Go to: [https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
