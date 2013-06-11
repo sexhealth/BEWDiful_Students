@@ -8,7 +8,19 @@ BACK-END WEB DEVELOPMENT
 
 ##Apple Mac Users 
 
-1.	__Install homebrew from terminal:__
+1.	__Make sure you have an apple ID__ (you should already have one). 
+
+2.	__Xcode installed?__
+	*	Go to step 4
+
+3.	__Xcode not installed?__ 
+	*	Go to: [https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
+	*	Log in with your Apple ID and password (same as iTunes).
+	*	Install Command Line Tools for your operating system.
+	*	Check install: ```$ gcc --version```
+
+
+4.	__Install homebrew from terminal:__
 	*	```$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)```
 	*	After install is complete: ```$ brew doctor```
 		*	__If you get following error:__ 
@@ -18,7 +30,7 @@ BACK-END WEB DEVELOPMENT
 		Go back to step 1.
 
 
-2.	__Install Git__
+5.	__Install Git__
 	*	```$ brew update```
 	*	```$ brew install git```
 	*	Check install:
@@ -26,21 +38,8 @@ BACK-END WEB DEVELOPMENT
 			*	should get:	 
 				/use/local/bin/git
 
-3.	__Configure Git with your Name and Email__
+6.	__Configure Git with your Name and Email__
 	*	Make sure you use the same email address for Git, GitHub, and Heroku.
-
-4.	__Make sure you have an apple ID__ (you should already have one). 
-
-5.	__Check if Xcode is installed__
-	*	Check install: ```$ gcc --version```
-	*	If installed, go to step 7
-
-6.	__Xcode not installed?__ 
-	*	Go to: [https://developer.apple.com/downloads/index.action](https://developer.apple.com/downloads/index.action)
-	*	Log in with your Apple ID and password (same as iTunes).
-	*	Install Command Line Tools for your operating system.
-	*	Verify install: ```$ gcc --version```
-
 
 7.	__Install RVM with Ruby 2.0.0__
 	*	```$ \curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable```
