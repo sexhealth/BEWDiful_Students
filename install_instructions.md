@@ -39,7 +39,9 @@ BACK-END WEB DEVELOPMENT
 				/use/local/bin/git
 
 6.	__Configure Git with your Name and Email__
-	*	Make sure you use the same email address for Git, GitHub, and Heroku.
+	*	Make sure you use the same email address for Git, GitHub, and Heroku.  
+    ```git config --global user.name "Your Name"```  
+    ```git config --global user.email "youremail@domain.com"```
 
 7.	__Install RVM with Ruby 2.0.0__
 	*	```$ \curl -L https://get.rvm.io | bash -s stable --rails --autolibs=enable```
