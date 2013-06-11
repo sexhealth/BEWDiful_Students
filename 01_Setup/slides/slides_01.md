@@ -150,16 +150,8 @@ For Windows:
 
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
-##Command Line Basics
+##Command Line Basics (~20 min)
 
-###Time: 20 min
-
-| | |
-| ------------- |:-------------|
-| __Topics__ | bash commands, terminal| 
-| __Description__| Demonstrate how to navigate computer files and folders  using the terminal.|    
-
-####Task Instructions 
 1. Make a script in bash to create a directory named code. 
 2. Change into this folder
 3. Create a file, complete, with the contents “Completed the exercise”
@@ -173,19 +165,7 @@ For Windows:
 
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
-## Command Line Basics Exercise
-
-
-###Time: 20 min
-
-| | |
-| ------------- |:-------------|
-| __Topics__ | bash commands, terminal| 
-| __Description__| Practice navigating computer files and folders  using the terminal.|    
-| | |
-
-
-####Task Instructions 
+## Command Line Basics Exercise (~20 min)
 
 -	Pair program.
 -	Make a script in bash to create a directory named lists. 
@@ -220,23 +200,23 @@ Congrats! You're on your way to becoming a developer. Keep it up.
 
 ---
 
-
-
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
-##Git Basics
+##Git Basics (~30 min)
 
-###Time: 30 min
-
-####Task Instructions
-
-**_Adding git to a folder_**
+**_1. Adding git to a folder_**
 
 -	Create a folder and change into it
 -	Create 3 files config, log, runner.rb
 -	Tell git to add this folder as a new repository
 -	Tell git to track the 3 files in the repo
 
-**_Commiting_**
+---
+
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+##Git Basics
+
+
+**_2. Commiting_**
 
 -	Open runner.rb in sublime text
 -	Type ‘print “Commited!”’
@@ -244,8 +224,12 @@ Congrats! You're on your way to becoming a developer. Keep it up.
 -	Look at the difference in the file
 -	Tell git it’s ok to commit this file
 -	Commit the file
+---
 
-**_Pushing Changes To GitHub_**
+![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
+##Git Basics
+
+**_3. Pushing Changes To GitHub_**
 
 -	Log into Github
 -	Create a new repository without a readme named first\_push
@@ -274,18 +258,7 @@ Congrats! You're on your way to becoming a developer. Keep it up.
 
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Code_along_icon_md.png)
-##Git In Class
-
-
-###Time: 15 min
-
-| | |
-| ------------- |:-------------|
-| __Topics__ | bash commands, terminal, git, gitHub| 
-| __Description__| Setup repositories for in class labs and homework|    
- 
-
-####Task Instructions
+##Git In Class (~15 min)
 
 -	Fork BEWDIful repository
 -	Clone your copy of the repository
