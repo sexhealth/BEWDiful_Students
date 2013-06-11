@@ -85,7 +85,7 @@ To get started you are going to use the Rails installer by rubyinstaller.org, an
 *	Grab the 1.9 version (we will upgrade later). This will set up your environment and you can start working with git right away.
 		
 
-__Extra command line tools: __
+__Extra command line tools:__
 	
 We will be using the command line a lot during this course. On Windows we also suggest installing gow. Gow is a bunch of unix command line tools ported to Windows. It will make it easy to follow in class with the same commands as your Mac buddies. https://github.com/bmatzelle/gow/wiki
 
