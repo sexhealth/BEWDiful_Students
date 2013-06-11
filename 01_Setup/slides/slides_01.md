@@ -89,7 +89,7 @@ View the installation guide here:
 
 
 ##Web Development
-###The Web Application Stack: Client/Server Model
+###The Web Application Stack
 
 ![NotAzizAnsari](../../assets/misc/server-side.jpg)
 
@@ -100,11 +100,9 @@ View the installation guide here:
 
 Let's define a few terms:
 
-* Web Development is the development of apps designed for the web
-* Front-End Development is developing for the client / browser (HTML, CSS, JS)
-* Back-End Development is developing for server-side components (Ruby, C#.NET)
-
-This course will heavily focus on technologies for backend development (Ruby, Rails, MySQL) and only briefly cover technologies needed for front-end development (HTML, CSS).
+* _Web Development_ -> apps built for the web
+* _Front-End Development_ -> client / browser code (HTML, CSS, JS)
+* _Back-End Development_ -> server-side code (Ruby, C#.NET)
 
 ---
 
@@ -165,7 +163,7 @@ For Windows:
 
 
 ![GeneralAssemb.ly](../../assets/ICL_icons/Exercise_icon_md.png)
-## Command Line Basics Exercise (~20 min)
+##Command Line Exercise (~20 min)
 
 -	Pair program.
 -	Make a script in bash to create a directory named lists. 
@@ -180,7 +178,7 @@ For Windows:
 ##Work Like a Developer
 ###Integrate into the developer community
 
-Congrats! You're on your way to becoming a developer. Keep it up.
+Congrats! You just took your first steps to becoming a developer. Keep it up.
 
 * If you are still a bit lost, don't worry. 
 * Practice makes perfect. 
