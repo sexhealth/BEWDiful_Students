@@ -31,7 +31,7 @@ BACK-END WEB DEVELOPMENT
 
 4.	__Make sure you have an apple ID__ (you should already have one). 
 
-5.	__Xcode installed?__
+5.	__Xcode installed?__ (to check, just try to launch XCode from Spotlight)
 	*	Go to step 7
 
 6.	__Xcode not installed?__ 
