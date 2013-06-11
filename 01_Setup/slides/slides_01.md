@@ -16,31 +16,75 @@ At a high level, we will focus on developing expertise with the following:
 * Rails (web application framework)
 * Developer tools & resources
 
+Most importantly, we will strive to teach you how to learn.
 
 ---
 
-##About Salman
+## About Me: Salman Ansari
+### Story: My favorite class.
 
-* I'm a founding engineer of Involver (now part of Oracle)
-* I'm a teacher
-* I'm a DJ
-* I'm a writer
+---
+##Once upon a time...
+###I lived in a server room.
+![ServerRoom](https://dl.dropboxusercontent.com/u/51784/GA/01/serverroom.png)
+
+---
+##Then one day...
+![OhEmGee](https://dl.dropboxusercontent.com/u/51784/GA/01/ohemgee.png)
+
+---
+##"I have created life"
+![Water](https://dl.dropboxusercontent.com/u/51784/GA/01/water.png)
+
+---
+##I helped build a company
+![Involver](https://dl.dropboxusercontent.com/u/51784/GA/01/involver.png)
+
+---
+##We got bought… by Oracle?
+![Oracle](https://dl.dropboxusercontent.com/u/51784/GA/01/oracle.jpg)
+
+---
+##Why are you telling us?
+###Inspiration can strike anywhere.
+
+---
+## I'm an audiophile
+![Music](https://dl.dropboxusercontent.com/u/51784/GA/01/music.png)
+
+---
+## I'm a DJ
+![DJ](https://dl.dropboxusercontent.com/u/51784/GA/01/dj.jpg)
+
+
+###soundcloud.com/daretorant
+
+---
+## I'm a writer (ranter)
+![DareToRant](https://dl.dropboxusercontent.com/u/51784/GA/01/daretorant.png)
+
+
+###daretorant.com
+
+---
+##And now…
+### The question you've all been waiting for.
 
 ---
 
-##I'm not related to Aziz Ansari.
+##No, I'm not related to Aziz Ansari.
 
 
-![NotAzizAnsari](../../assets/misc/azizansari.jpg)
+![NotAzizAnsari](https://dl.dropboxusercontent.com/u/51784/GA/01/azizansari.jpg)
 
 ### Sorry.
 
 ---
 
-##About your TA's
+## Meet Your Wonderful TA's
 
-1. Brooks Swinnerton
-2. Brian Fountain
+### Brooks Swinnerton
+### Brian Fountain
 
 ---
 
@@ -87,7 +131,7 @@ View the installation guide here:
 ##Web Development
 ###The Web Application Stack
 
-![NotAzizAnsari](../../assets/misc/server-side.jpg)
+![WebStack](https://dl.dropboxusercontent.com/u/51784/GA/01/server-side.jpg)
 
 ---
 
