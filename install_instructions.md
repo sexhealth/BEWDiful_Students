@@ -36,7 +36,7 @@ BACK-END WEB DEVELOPMENT
 	*	Check install:
 		*	```$ which git```
 			*	should get:	 
-				/use/local/bin/git
+				/usr/local/bin/git
 
 6.	__Configure Git with your Name and Email__
 	*	Make sure you use the same email address for Git, GitHub, and Heroku.  
